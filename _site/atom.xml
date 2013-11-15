@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>HEP Puppet</title>
+ <link href="http://HEP-Puppet.github.io/atom.xml" rel="self"/>
+ <link href="http://HEP-Puppet.github.io/"/>
+ <updated>2013-11-15T15:16:46+00:00</updated>
+ <id>http://HEP-Puppet.github.io</id>
+ <author>
+   <name>HEP Puppet</name>
+ </author>
+ 
+ 
+ 
+</feed>
